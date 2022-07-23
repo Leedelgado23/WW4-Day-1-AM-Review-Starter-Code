@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 25px;
+    text-align: center;
+}
+
+main {
+    background: #D4FEFD;
+    padding: 20px;
+    margin: 10px auto;
+    border: 3px solid #282774;
+    border-radius: 25px;
+    font-size: 19px;
+    color: #282774;
+}
+
+footer {
+    background: lightgreen;
+    padding: 5px 20px 2px 20px;
+    font-size: 15px;
+    border: 3px solid #45776D;
+    border-radius: 25px;
+    color: #45776D;
+    height: 300px;
+}
+
+.recs {
+    font-size: 40px;
+}
